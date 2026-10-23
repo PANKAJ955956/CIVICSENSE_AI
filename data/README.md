@@ -1,0 +1,1 @@
+The CSV is generated locally by scripts/generate_demo_dataset.py. It is synthetic, not measured observations. For research-grade work, document real data source/licence, period, units, missingness, and target definition.\n
