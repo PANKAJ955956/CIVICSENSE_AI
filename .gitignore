@@ -1,1 +1,5 @@
-__pycache__/\n*.py[cod]\n.venv/\n.env\n.pytest_cache/\nmodels/*.joblib\nmodels/metrics.json\n
+__pycache__/\n*.py[cod]\n.venv/\n.env\n.pytest_cache/\nmodels/*.joblib\nmodels/metrics.json\n.venv/
+__pycache__/
+*.py[cod]
+.env
+.vscode/
